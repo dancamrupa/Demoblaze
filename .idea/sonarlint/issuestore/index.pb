@@ -29,5 +29,3 @@ h
 8src/main/java/plataforma/demoblaze/utils/GlobalData.java,a\1\a17c5e387c065835c27d9165fe3dc76aa28bb6e7
 C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35

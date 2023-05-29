@@ -29,5 +29,3 @@ C
 serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c
 „
 Tsrc/main/java/plataforma/demoblaze/userInterface/PlaceProductOrderUserInterface.java,f\0\f09f0faf547b90ccf8953214c1b9560ae17cb1f8
-<
-build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
